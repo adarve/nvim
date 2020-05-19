@@ -90,6 +90,10 @@ call plug#begin('~/.config/nvim/autoload/plugged')
     " Interactive code
     Plug 'metakirby5/codi.vim'
     Plug 'https://github.com/vimwiki/vimwiki.git'
+
+    " Vim slime
+    Plug 'jpalardy/vim-slime'
+    Plug 'rgrinberg/vim-ocaml'
   endif
 
 
